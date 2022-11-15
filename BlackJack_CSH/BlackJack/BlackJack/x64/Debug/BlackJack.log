@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(77,18): warning C4129: 'N': unrecognized character escape sequence
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(82,3): error C3861: 'playOneHand': identifier not found
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(220,2): error C3861: 'scoreBoard': identifier not found
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(262,3): error C3861: 'scoreBoard': identifier not found
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(265,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(268,3): error C3861: 'backDoorKenny': identifier not found
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(273,3): error C3861: 'scoreBoard': identifier not found
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(285,3): error C3861: 'scoreBoard': identifier not found
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(288,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(289,3): error C3861: 'backDoorKenny': identifier not found
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(304,3): error C3861: 'addToHand': identifier not found
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(305,3): error C3861: 'addToHand': identifier not found
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(306,3): error C3861: 'addToHand': identifier not found
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(307,3): error C3861: 'addToHand': identifier not found
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(316,11): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(318,3): error C3861: 'checkSoftOrHard': identifier not found
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(321,4): error C3861: 'addToHand': identifier not found
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(325,4): error C3861: 'checkSoftOrHard': identifier not found
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\Source.cpp(9,7): error C2374: 'win': redefinition; multiple initialization
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(17): message : see declaration of 'win'
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\Source.cpp(10,5): error C2086: 'int level': redefinition
+C:\Users\saiha\Documents\Visual Studio 2022\BlackJack_CSH\BlackJack\BlackJack\BlackJackCalc.h(18): message : see declaration of 'level'
